@@ -1,5 +1,5 @@
 pipeline {
-    agent myownprashanthserver
+    agent prashanth
     
     tools {
         maven 'M2_HOME'
